@@ -40,6 +40,3 @@ Have fun with it!
 
 ## More informations
 https://www.lazarusforum.de/viewtopic.php?f=11&t=13468
-
-
-Dont't forget to copy Folder "Assets" into Sources Folder!
