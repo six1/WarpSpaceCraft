@@ -26,7 +26,7 @@
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="BASSWindows"/>
+            <OtherUnitFiles Value="bass24-linux\pascal"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <Parsing>
@@ -65,7 +65,7 @@
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="BASSWindows"/>
+            <OtherUnitFiles Value="bass24-linux\pascal"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -97,7 +97,7 @@
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="BassLinux"/>
+            <OtherUnitFiles Value="bass24-linux\pascal"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -131,7 +131,7 @@
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="BassLinux"/>
+            <OtherUnitFiles Value="bass24-linux\pascal"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -176,7 +176,7 @@
         <PackageName Value="LCL"/>
       </Item3>
     </RequiredPackages>
-    <Units Count="4">
+    <Units Count="3">
       <Unit0>
         <Filename Value="WarpSpaceCraft.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -190,14 +190,9 @@
         <UnitName Value="unitMain"/>
       </Unit1>
       <Unit2>
-        <Filename Value="BASSWindows\bass.pas"/>
+        <Filename Value="bass24-linux\pascal\bass.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="BASS"/>
       </Unit2>
-      <Unit3>
-        <Filename Value="BassLinux\bass.pas"/>
-        <IsPartOfProject Value="True"/>
-      </Unit3>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -208,7 +203,7 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="BASSWindows"/>
+      <OtherUnitFiles Value="bass24-linux\pascal"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>

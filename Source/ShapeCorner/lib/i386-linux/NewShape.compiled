@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\fpc\bin\i386-win32\fpc.exe" Date="1379293254"/>
-  <Params Value=" -Tlinux -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\packager\units\i386-linux -FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\components\lazutils\lib\i386-linux -FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\lcl\units\i386-linux -FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\lcl\units\i386-linux\gtk2 -FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\components\lazcontrols\lib\i386-linux\gtk2 -FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\components\ideintf\units\i386-linux\gtk2 &quot;-FuC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\components\__Eigene Komponenten\ShapeCorner\&quot; &quot;-FUC:\LAZARUS_IDE\LAZ_2-0-11_FPC_3-2-1\lazarus\components\__Eigene Komponenten\ShapeCorner\lib\i386-linux\&quot; -dLCL -dLCLgtk2 newshape.pas"/>
-</CONFIG>
